@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adnanaarb,currently ,i'm an electrical engineer student .
+- 👋 Hi, I’m @Adnanaarb,currently ,i'm a second year electrical engineer student .
 - 👀 I’m interested in software engineering .
 - 🌱 I’m currently learning about embedded systems.
 - 📫 I'm looking for opportunity to learn and work to reach me ,you can mail me .
